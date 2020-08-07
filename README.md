@@ -9,4 +9,4 @@
 1. Hexo更换主题
 ## 用命名敲命名是一种Geek行为，我觉得还蛮有趣的
 ## 有点意思，下面这张gif可以形容我的心情
-https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif
+![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
